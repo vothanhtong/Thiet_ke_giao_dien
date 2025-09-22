@@ -1,5 +1,5 @@
 # Thiet_ke_giao_dien
-# Quản Lý Sinh Viên / Lớp Học
+# Quản Lý Giảng Đường Trường Đại Học Nha Trang NTU
 
 ## 👥 Thành viên nhóm
 - **Võ Thanh Tòng** (Nhóm trưởng)  
